@@ -11,7 +11,8 @@ import resizeTask from 'bpmn-js-task-resize/lib';
 var bpmnJS = new BpmnModeler({
   additionalModules: [
     resizeTask
-  ]
+  ],
+  taskResizingEnabled: true
 });
 ```
 
