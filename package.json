@@ -1,0 +1,29 @@
+{
+  "name": "bpmn-js-task-resize",
+  "version": "1.0.0",
+  "description": "BPMN-JS plugin to allow task resizing in diagrams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bundle": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElCondor1969/bpmn-js-task-resize.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ElCondor1969/bpmn-js-task-resize/issues"
+  },
+  "homepage": "https://github.com/ElCondor1969/bpmn-js-task-resize#readme",
+  "dependencies": {
+    "bpmn-js": "^2.1.0",
+    "diagram-js": "^2.2.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  }
+}
