@@ -1,3 +1,3 @@
 export {
   default
-} from './lib/ResizeTask';
+} from './lib';

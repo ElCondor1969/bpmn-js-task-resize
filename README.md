@@ -18,7 +18,7 @@ var bpmnJS = new BpmnModeler({
 
 ## Building
 
-To build, run
+To build, run:
 
 ```
 npm install
