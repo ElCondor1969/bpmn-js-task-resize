@@ -1,6 +1,6 @@
 {
   "name": "bpmn-js-task-resize",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "BPMN-JS plugin to allow task resizing in diagrams",
   "main": "index.js",
   "scripts": {
