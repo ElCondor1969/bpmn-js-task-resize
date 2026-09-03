@@ -19,8 +19,8 @@
   },
   "homepage": "https://github.com/ElCondor1969/bpmn-js-task-resize#readme",
   "dependencies": {
-    "bpmn-js": "*",
-    "diagram-js": "*"
+    "bpmn-js": "^4.0.4",
+    "diagram-js": "^4.0.3"
   },
   "devDependencies": {
     "webpack": "^5.75.0",
